@@ -1,3 +1,5 @@
+//non-disclaimer: i do not own Wikipedia, this is just a sample of using their API for a search engine
+
 $(document).ready(function(){
 
 	//button and search output function
